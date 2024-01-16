@@ -1,6 +1,6 @@
 # Overview of Privacy Policy
 
-New Streetwear, through its website and mobile app (together referred to as the "Platform"), operated by eLuckkkkkkky Store, is committed to protecting your privacy. This policy outlines how we manage Personal Information both on the Platform and in offline interactions. It forms a fundamental part of our Terms and Conditions, influencing how you use the Platform and our approach to data management. We encourage a thorough review of this document along with specific sections of the Terms and Conditions, especially those related to social media and legal considerations. Any modifications to this policy will be updated with the respective revision dates. Should you disagree with any changes, please contact us as indicated in the policy. Your continued usage of New Streetwear's services signifies agreement with the current Privacy Policy. We prioritize your privacy, ensuring a secure environment and exclusive use of your information to improve your experience while respecting your privacy preferences.
+Retro Streetwear, through its website and mobile app (together referred to as the "Platform"), operated by eLuckkkkkkky Store, is committed to protecting your privacy. This policy outlines how we manage Personal Information both on the Platform and in offline interactions. It forms a fundamental part of our Terms and Conditions, influencing how you use the Platform and our approach to data management. We encourage a thorough review of this document along with specific sections of the Terms and Conditions, especially those related to social media and legal considerations. Any modifications to this policy will be updated with the respective revision dates. Should you disagree with any changes, please contact us as indicated in the policy. Your continued usage of Retro Streetwear's services signifies agreement with the current Privacy Policy. We prioritize your privacy, ensuring a secure environment and exclusive use of your information to improve your experience while respecting your privacy preferences.
 
 ## Information Collection and Usage
 
@@ -16,7 +16,7 @@ For operational purposes, we may share your data with third parties, like paymen
 
 ### Security Measures
 
-New Streetwear employs robust measures to protect personal data, though transmission risks are inherent to the internet and are at your discretion.
+Retro Streetwear employs robust measures to protect personal data, though transmission risks are inherent to the internet and are at your discretion.
 
 ### Data Access and Corrections
 
@@ -30,7 +30,7 @@ For privacy-related inquiries or data management requests, email us at haocheng9
 
 # Introduction
 
-This policy explains how New Streetwear handles personal data in various interactions and services, as outlined in our Consumer Terms of Service. It complements our overall privacy policy, and in case of conflicts, the provisions of this specific policy will prevail.
+This policy explains how Retro Streetwear handles personal data in various interactions and services, as outlined in our Consumer Terms of Service. It complements our overall privacy policy, and in case of conflicts, the provisions of this specific policy will prevail.
 
 ## Types of Personal Data Collected
 
@@ -50,7 +50,7 @@ Cookies are used to recognize your browser on subsequent visits and offer a pers
 
 ## Personal Data Usage
 
-Depending on your interactions with us or the New Streetwear services you use, we employ Personal Data to:
+Depending on your interactions with us or the Retro Streetwear services you use, we employ Personal Data to:
 
 - Provide, improve, and customize our services.
 - Track and implement your privacy settings.
@@ -71,7 +71,7 @@ The categories of third parties receiving data from us vary based on the service
 
 ## Third Party Partners & Integrations
 
-Our services may link to third-party services not controlled by New Streetwear. Your interactions with these services are governed by their privacy policies.
+Our services may link to third-party services not controlled by Retro Streetwear. Your interactions with these services are governed by their privacy policies.
 
 ## Your Privacy Rights and Choices
 
